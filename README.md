@@ -1,3 +1,3 @@
-# 📄 DocBuddy App
+## 📄 DocBuddy App
 
 ![DocBuddy](interface.png)
